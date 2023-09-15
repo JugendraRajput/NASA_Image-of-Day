@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NASA - Image of Day</string>
+    <string name="loading">Loading…</string>
+    <string name="refresh">Refresh</string>
+    <string name="image_of_day">Image of the Day</string>
+    <string name="hd">HD</string>
+</resources>
